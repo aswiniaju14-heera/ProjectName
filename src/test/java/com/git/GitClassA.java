@@ -11,4 +11,15 @@ public class GitClassA {
 	private void method3() {
 		System.out.println("3");
 	}
+	
+	private void branch1() {
+		System.out.println("1");
+	}
+	private void branch2() {
+		System.out.println("2");
+	}
+	private void branch3() {
+		System.out.println("3");
+	}
+	
 }
